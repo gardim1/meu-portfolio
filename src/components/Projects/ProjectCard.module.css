@@ -65,3 +65,25 @@
   background: var(--color-primary);
   padding: 1px 22px;
 }
+@media (max-width: 768px) {
+  
+  .description {
+    font-size: 20px; /* Reduz o tamanho da descrição */
+    -webkit-line-clamp: 2; /* Mantém no máximo 2 linhas */
+  }
+
+  .skills {
+    font-size: 12px; /* Deixa as tags menores */
+  }
+
+  .links {
+    flex-wrap: wrap; /* Permite que os botões quebrem linha */
+    justify-content: center; /* Centraliza */
+    gap: 5px; /* Adiciona um espaçamento menor */
+  }
+
+  .link {
+    font-size: 14px;
+    padding: 5px 15px; /* Diminui os botões */
+  }
+}

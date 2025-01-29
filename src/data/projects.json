@@ -18,7 +18,7 @@
   {
     "title": "Clone TabNews",
     "imageSrc": "projects/project.png",
-    "description": "Projeto em construcao, conceitos de Dokcer, CI/CD, Testes Automatizados",
+    "description": "Projeto em construção, conceitos de Dokcer, CI/CD, Testes Automatizados",
     "skills": ["React", "Next", "Node", "Jest"],
     "demo": "https://collaborate.dev.br/",
     "source": "https://github.com/gardim1/clone-tabnews"
