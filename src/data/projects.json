@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Site Mahindra - Formula E",
+    "imageSrc": "projects/mahindra.png",
+    "description": "Esse foi um projeto desenvolvido com a Mahindra Racing e FIA",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://e-fficency.github.io/mahindra/",
+    "source": "https://github.com/E-fficency/mahindra"
+  },
+  {
+    "title": "Visão Computacional - Tenis de Mesa",
+    "imageSrc": "projects/tenis-de-mesa.jpg",
+    "description": "Projeto usado para estudar Visão Computacional",
+    "skills": ["Python", "Roboflow", "OpenCV", "YOLOv11"],
+    "demo": "https://youtu.be/o2vsGWBBpwI?si=3VHLMBnlkx0y3TbH&t=28",
+    "source": "https://universe.roboflow.com/projetogs/pingpob-ball"
+  },
+  {
+    "title": "Clone TabNews",
+    "imageSrc": "projects/project.png",
+    "description": "Projeto em construcao, conceitos de Dokcer, CI/CD, Testes Automatizados",
+    "skills": ["React", "Next", "Node", "Jest"],
+    "demo": "https://collaborate.dev.br/",
+    "source": "https://github.com/gardim1/clone-tabnews"
+  }
+]

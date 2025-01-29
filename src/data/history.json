@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Estagiario TI",
+    "organisation": "FIAP",
+    "startDate": "Ago, 2024",
+    "endDate": "Presente",
+    "experiences": ["Comandos PowerShell", "Manutencao de Hardware"],
+    "imageSrc": "history/fiap.png"
+  },
+  {
+    "role": "Crew member",
+    "organisation": "KFC Australia",
+    "startDate": "Mar, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": ["Atendiemnto ao cliente", "Trabalho em equipe"],
+    "imageSrc": "history/kfc3.png"
+  }
+]
