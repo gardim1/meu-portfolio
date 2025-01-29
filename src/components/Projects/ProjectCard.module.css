@@ -68,22 +68,22 @@
 @media (max-width: 768px) {
   
   .description {
-    font-size: 20px; /* Reduz o tamanho da descrição */
-    -webkit-line-clamp: 2; /* Mantém no máximo 2 linhas */
+    font-size: 20px; 
+    -webkit-line-clamp: 2;
   }
 
   .skills {
-    font-size: 12px; /* Deixa as tags menores */
+    font-size: 12px; 
   }
 
   .links {
-    flex-wrap: wrap; /* Permite que os botões quebrem linha */
-    justify-content: center; /* Centraliza */
-    gap: 5px; /* Adiciona um espaçamento menor */
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 5px; 
   }
 
   .link {
     font-size: 14px;
-    padding: 5px 15px; /* Diminui os botões */
+    padding: 5px 15px; 
   }
 }

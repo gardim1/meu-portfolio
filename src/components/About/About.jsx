@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Desenvolvedor IA</h3>
               <p>
-                Tenho experiencia com projetos de Inteligencia Artificial, incluindo principalemnte visão computacional
+                Tenho experiencia com projetos de Inteligencia Artificial, incluindo principalmente visão computacional
               </p>
             </div>
           </li>
