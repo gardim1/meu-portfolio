@@ -20,7 +20,23 @@
     "imageSrc": "projects/project.png",
     "description": "Projeto em construção, conceitos de Dokcer, CI/CD, Testes Automatizados",
     "skills": ["React", "Next", "Node", "Jest"],
-    "demo": "https://collaborate.dev.br/",
+    "demo": "https://collaborate.dev.br/api/v1/status",
     "source": "https://github.com/gardim1/clone-tabnews"
+  },
+  {
+    "title": "Buscador de CEP",
+    "imageSrc": "projects/cep.png",
+    "description": "Consiste em um consultor de CEP que pede o mesmo ao usuario e salva as informacoes em um .json",
+    "skills": ["Java"],
+    "demo": "https://github.com/gardim1/consulta-de-cep",
+    "source": "https://github.com/gardim1/consulta-de-cep"
+  },
+  {
+    "title": "WebScraping",
+    "imageSrc": "projects/webscrapingimg.webp",
+    "description": "Projeto Python que usa requests e BeautifulSoup para extrair títulos e preços de livros.",
+    "skills": ["Pyhton", "BeautifulSoap"],
+    "demo": "http://books.toscrape.com/",
+    "source": "https://github.com/gardim1/book-scraping"
   }
 ]
