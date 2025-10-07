@@ -100,6 +100,14 @@
   margin-left: 17px;
 }
 
+.sislogicaLogo {
+  width: 140px !important; 
+}
+
+.sqlserverLogo {
+  width: 140px !important; 
+}
+
 @media screen and (max-width: 830px) {
   .content {
     flex-direction: column;

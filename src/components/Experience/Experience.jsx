@@ -15,7 +15,13 @@ export const Experience = () => {
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
-                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
+                  <img
+                    src={getImageUrl(skill.imageSrc)}
+                    alt={skill.title}
+                    className={
+                      skill.title === "SQL Server" ? styles.sqlserverLogo : ""
+                    }
+                  />
                 </div>
                 <p>{skill.title}</p>
               </div>
@@ -29,6 +35,11 @@ export const Experience = () => {
                 <img
                   src={getImageUrl(historyItem.imageSrc)}
                   alt={`${historyItem.organisation} Logo`}
+                  className={
+                    historyItem.organisation === "Sislogica"
+                      ? styles.sislogicaLogo
+                      : ""
+                  }
                 />
                 <div className={styles.historyItemDetails}>
                   <h3>{`${historyItem.role}, ${historyItem.organisation}`}</h3>

@@ -4,11 +4,11 @@
     "imageSrc": "skills/js.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": ".NET 8",
+    "imageSrc": "skills/NET.png"
   },
   {
-    "title": "Node",
+    "title": "Node JS",
     "imageSrc": "skills/node.png"
   },
   {
@@ -24,8 +24,8 @@
     "imageSrc": "skills/docker.png"
   },
   {
-    "title": "Postgres",
-    "imageSrc": "skills/postgres.png"
+    "title": "SQL Server",
+    "imageSrc": "skills/sqlserver.png"
   },
   {
     "title": "Jest",

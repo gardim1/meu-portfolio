@@ -1,5 +1,21 @@
 [
   {
+    "title": "Detector de Incendio",
+    "imageSrc": "projects/fogo-na-floresta.jpg",
+    "description": "Esse foi um projeto desenvolvido para ajudar no combate às queimadas",
+    "skills": ["Pyhton", "OpenCV", "Yolo"],
+    "demo": "https://www.linkedin.com/posts/vinicius-gardim-756085251_globalsolution-engenhariadesoftware-visaocomputacional-activity-7338322855589306368-iDpa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4f_fIBO2fYDiqDv20UYJ85QF3aX1x3pb0",
+    "source": "https://github.com/gardim1/fogo-gs"
+  },
+  {
+    "title": "Leitor de CRLV",
+    "imageSrc": "projects/crlv.jpg",
+    "description":"Leitor de CRLV (documento virtual de veiculos)",
+    "skills": ["Python"],
+    "demo": "https://servicos.sp.gov.br/fcarta/AE6A4009-FAFC-4702-9C0E-2B80D366BF58",
+    "source":"https://github.com/gardim1/Leitor_De_CRLV"
+  },
+  {
     "title": "Site Mahindra - Formula E",
     "imageSrc": "projects/mahindra.png",
     "description": "Esse foi um projeto desenvolvido com a Mahindra Racing e FIA",

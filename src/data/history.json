@@ -1,18 +1,25 @@
 [
   {
-    "role": "Estagiario TI",
-    "organisation": "FIAP",
-    "startDate": "Ago, 2024",
+    "role": "Desenvolvedor Backend Júnior",
+    "organisation": "Sislogica",
+    "startDate": "Mar, 2025",
     "endDate": "Presente",
-    "experiences": ["Comandos PowerShell", "Manutencao de Hardware"],
-    "imageSrc": "history/fiap.png"
+    "experiences": [
+      "Desenvolvimento em C# (.NET)",
+      "Integrações com SQL Server",
+      "Criação de APIs REST",
+      "Implementação de chat em tempo real com SignalR e Blazor",
+      "Projetos de IA com RAG, LangGraph e ChromaDB"
+    ],
+    "imageSrc": "history/sislogica.png"
   },
   {
-    "role": "Crew member",
-    "organisation": "KFC Australia",
-    "startDate": "Mar, 2023",
-    "endDate": "Jan, 2024",
-    "experiences": ["Atendimento ao cliente", "Trabalho em equipe"],
-    "imageSrc": "history/kfc3.png"
+    "role": "Estagiário de TI",
+    "organisation": "FIAP",
+    "startDate": "Ago, 2024",
+    "endDate": "Mar, 2025",
+    "experiences": ["Comandos PowerShell", "Manutenção de Hardware"],
+    "imageSrc": "history/fiap.png"
   }
 ]
+

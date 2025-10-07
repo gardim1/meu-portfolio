@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Desenvolvedor Backend</h3>
               <p>
-                Sou um desenvolvedor backend com conheciemntos em Java Spring Boot e Nodejs
+                Sou desenvolvedor backend com experiência em .NET 5/8, Python, SQL Server e Node.js, atuando na criação de APIs robustas, integrações e automações de processos.
               </p>
             </div>
           </li>
@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Desenvolvedor IA</h3>
               <p>
-                Tenho experiencia com projetos de Inteligencia Artificial, incluindo principalmente visão computacional
+                Tenho experiência com projetos de IA generativa, incluindo modelos de LLM, RAG (LangGraph, LangChain, LlamaIndex, FAISS, ChromaDB), fine-tuning com Unsloth e visão computacional usando OpenCV, Roboflow, YOLO e CNNs.
               </p>
             </div>
           </li>
@@ -37,7 +37,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Ferramentas</h3>
               <p>
-                Tenho conhecimentos de bancos de dados SQL/NoSQL, docker, testes automatizados
+                Conhecimentos em bancos de dados SQL/NoSQL, Docker, testes automatizados e práticas modernas de desenvolvimento e versionamento.
               </p>
             </div>
           </li>
